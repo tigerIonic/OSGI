@@ -1,0 +1,9 @@
+package magasin;
+
+public class Produit {
+	int id_produit;
+	String libelle;
+	double prix;
+	int quantite;
+	
+}
