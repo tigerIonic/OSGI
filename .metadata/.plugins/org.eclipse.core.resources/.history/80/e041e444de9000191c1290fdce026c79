@@ -1,0 +1,8 @@
+package edu.osgi.client;
+
+public interface ClientTransaction {
+
+	public void DemanderProduit(int idProduit) {
+		
+	}
+}
